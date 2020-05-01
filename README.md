@@ -1,3 +1,1 @@
-# module3 jadaapp
-
-https://module-3-jadeapp.herokuapp.com/
+Node app using Jade template
